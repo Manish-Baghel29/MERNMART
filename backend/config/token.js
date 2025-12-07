@@ -16,7 +16,5 @@ export const genToken1 = async (email) => {
     return token
    } catch (error) {
      console.log("token error")
-   }
-
-    
+   }  
 }
